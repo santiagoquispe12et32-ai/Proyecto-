@@ -1,4 +1,4 @@
-Santiago Quispe | santiago.quispe.1.2.et32@gmail.com | 4°2
+Santiago Quispe | santiago.quispe.1.2.et32@gmail.com | Proyecto | Gonzalo Consorti | 4°2
 
 TP N°3: Sensores + LCD
 
