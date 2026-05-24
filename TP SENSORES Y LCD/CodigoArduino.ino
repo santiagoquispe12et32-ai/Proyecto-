@@ -200,8 +200,7 @@ void loop()
       noTone(buzz);
       delay(1500);
       analogWrite(rojo,0);
-      analogWrite(verde,0);
-     //temp 
+      analogWrite(verde,0); 
      
       
     } 
