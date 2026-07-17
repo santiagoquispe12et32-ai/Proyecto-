@@ -1,3 +1,7 @@
+Santiago Quispe | santiago.quispe.1.2.et32@gmail.com | Proyecto | Gonzalo Consorti | 4°2
+
+TP N°1: Escrituras
+
 Desarrollar un código y un esquema electrónico básico que haga una secuencia de luces con 3 leds RGB.
 
 La secuencia es la siguiente: 
